@@ -273,7 +273,9 @@ select{
   bottom: 10px;
   left: 20px;
 }
-
+.row{
+  margin-bottom: 10px;
+}
 .row-margin-bottom {
   margin-bottom: 20px;
 }

@@ -2,7 +2,10 @@
   "name": "demoinangularjs",
   "version": "0.0.0",
   "dependencies": {
-    "angular-ui-bootstrap": "^1.1.2"
+    "angular-ui-bootstrap": "^1.1.2",
+    "express": "^4.13.4",
+    "gzippo": "^0.2.0",
+    "morgan": "^1.7.0"
   },
   "repository": {},
   "devDependencies": {
